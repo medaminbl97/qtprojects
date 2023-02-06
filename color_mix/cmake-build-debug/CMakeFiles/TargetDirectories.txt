@@ -1,0 +1,4 @@
+/Users/mohamedaminebellil/Desktop/QtProjects/qtprojects/color_mix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mohamedaminebellil/Desktop/QtProjects/qtprojects/color_mix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohamedaminebellil/Desktop/QtProjects/qtprojects/color_mix/cmake-build-debug/CMakeFiles/color_mix.dir
+/Users/mohamedaminebellil/Desktop/QtProjects/qtprojects/color_mix/cmake-build-debug/CMakeFiles/color_mix_autogen.dir
